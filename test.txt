@@ -1,0 +1,3 @@
+In the Azure Data Factory home page, select Set up Code Repository.
+
+Configure a code repository from home page
