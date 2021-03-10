@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "testbk_op.txt",
 				"fileSystem": "adlsbk"
 			},
 			"columnDelimiter": ",",
